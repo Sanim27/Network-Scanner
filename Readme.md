@@ -1,8 +1,8 @@
-#Network Scanner
+# Network Scanner
 
 A Python script to scan networks using Nmap, log results, and send email alerts for open ports.
 
-##Features
+## Features
 
     Multiple scan types
 
@@ -12,7 +12,7 @@ A Python script to scan networks using Nmap, log results, and send email alerts 
 
     Logging to scanner.log
 
-##Setup
+## Setup
 
     Install dependencies:
 
