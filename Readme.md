@@ -26,9 +26,9 @@ Make the script executable:
 
 Usage
 
-    One-time scan:
+One-time scan:
 
-./scanner.py -t <target> -s <scan-type>
+    ./scanner.py -t <target> -s <scan-type>
 
 Scheduled scan:
 
@@ -36,7 +36,7 @@ Scheduled scan:
 
 Example
 
-./scanner.py -t 192.168.1.0/24 -s aggressive --schedule 5
+    ./scanner.py -t 192.168.1.0/24 -s aggressive --schedule 5
 
 Scan Types
 
